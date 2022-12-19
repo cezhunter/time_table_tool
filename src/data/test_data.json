@@ -1,0 +1,248 @@
+{
+    "projects":
+    [{
+        "projects":
+        [
+            {
+                "id": 2279039,
+                "name": "Project A",
+                "created_at": "2022-12-06T11:05:02.057640Z",
+                "updated_at": "2022-12-06T11:05:02.057640Z",
+                "status": "active",
+                "billable": true,
+                "metadata":
+                {}
+            },
+            {
+                "id": 2279040,
+                "name": "hubstaff bot323",
+                "created_at": "2022-12-06T11:05:02.206916Z",
+                "updated_at": "2022-12-06T11:05:02.206916Z",
+                "status": "active",
+                "billable": true,
+                "metadata":
+                {}
+            },
+            {
+                "id": 2279041,
+                "name": "hubstaff bot323",
+                "created_at": "2022-12-06T11:05:02.206916Z",
+                "updated_at": "2022-12-06T11:05:02.206916Z",
+                "status": "active",
+                "billable": true,
+                "metadata":
+                {}
+            },
+            {
+                "id": 2279042,
+                "name": "Project B",
+                "created_at": "2022-12-06T11:05:02.359839Z",
+                "updated_at": "2022-12-06T11:05:02.359839Z",
+                "status": "active",
+                "billable": true,
+                "metadata":
+                {}
+            }
+        ]
+    }],
+    "project_activity":
+    {
+        "2279039":
+        [{
+            "daily_activities":
+            [
+                {
+                    "id": 7154812803,
+                    "date": "2022-12-06",
+                    "user_id": 2065105,
+                    "project_id": 2279039,
+                    "task_id": null,
+                    "keyboard": 3917,
+                    "mouse": 7318,
+                    "overall": 9561,
+                    "tracked": 11767,
+                    "input_tracked": 11767,
+                    "manual": 0,
+                    "idle": 0,
+                    "resumed": 0,
+                    "billable": 11767,
+                    "created_at": "2022-12-06T23:46:42.209345Z",
+                    "updated_at": "2022-12-07T06:14:05.302154Z"
+                },
+                {
+                    "id": 7164175537,
+                    "date": "2022-12-07",
+                    "user_id": 2065105,
+                    "project_id": 2279039,
+                    "task_id": 114500563,
+                    "keyboard": 11,
+                    "mouse": 41,
+                    "overall": 43,
+                    "tracked": 47,
+                    "input_tracked": 47,
+                    "manual": 0,
+                    "idle": 0,
+                    "resumed": 0,
+                    "billable": 47,
+                    "created_at": "2022-12-07T06:18:31.834694Z",
+                    "updated_at": "2022-12-07T06:20:41.082059Z"
+                },
+                {
+                    "id": 7164215308,
+                    "date": "2022-12-07",
+                    "user_id": 2065105,
+                    "project_id": 2279039,
+                    "task_id": 114500575,
+                    "keyboard": 1070,
+                    "mouse": 1949,
+                    "overall": 2611,
+                    "tracked": 3463,
+                    "input_tracked": 3463,
+                    "manual": 0,
+                    "idle": 0,
+                    "resumed": 0,
+                    "billable": 3463,
+                    "created_at": "2022-12-07T06:30:31.490942Z",
+                    "updated_at": "2022-12-07T07:18:23.549839Z"
+                },
+                {
+                    "id": 7164215308,
+                    "date": "2022-12-07",
+                    "user_id": 2065106,
+                    "project_id": 2279039,
+                    "task_id": 114500575,
+                    "keyboard": 1070,
+                    "mouse": 1949,
+                    "overall": 2611,
+                    "tracked": 787,
+                    "input_tracked": 3463,
+                    "manual": 0,
+                    "idle": 0,
+                    "resumed": 0,
+                    "billable": 3463,
+                    "created_at": "2022-12-07T06:30:31.490942Z",
+                    "updated_at": "2022-12-07T07:18:23.549839Z"
+                }
+            ],
+            "users":
+            [
+                {
+                    "id": 2065105,
+                    "name": "Cezanne Vahid",
+                    "email": "cezhunter@gmail.com",
+                    "time_zone": "America/New_York",
+                    "status": "active",
+                    "created_at": "2022-12-06T14:32:27.215116Z",
+                    "updated_at": "2022-12-06T14:32:27.798887Z"
+                },
+                {
+                    "id": 2065106,
+                    "name": "Jo Smith",
+                    "email": "jsmith@gmail.com",
+                    "time_zone": "America/New_York",
+                    "status": "active",
+                    "created_at": "2022-12-06T14:32:27.215116Z",
+                    "updated_at": "2022-12-06T14:32:27.798887Z"
+                }
+            ]
+        }],
+        "2279040":
+        [{
+            "daily_activities":
+            [
+                {
+                    "id": 7154812803,
+                    "date": "2022-12-07",
+                    "user_id": 2065107,
+                    "project_id": 2279040,
+                    "task_id": null,
+                    "keyboard": 3917,
+                    "mouse": 7318,
+                    "overall": 9561,
+                    "tracked": 2000,
+                    "input_tracked": 11767,
+                    "manual": 0,
+                    "idle": 0,
+                    "resumed": 0,
+                    "billable": 11767,
+                    "created_at": "2022-12-06T23:46:42.209345Z",
+                    "updated_at": "2022-12-07T06:14:05.302154Z"
+                },
+                {
+                    "id": 7164215308,
+                    "date": "2022-12-07",
+                    "user_id": 2065106,
+                    "project_id": 2279040,
+                    "task_id": 114500575,
+                    "keyboard": 1070,
+                    "mouse": 1949,
+                    "overall": 2611,
+                    "tracked": 899,
+                    "input_tracked": 3463,
+                    "manual": 0,
+                    "idle": 0,
+                    "resumed": 0,
+                    "billable": 3463,
+                    "created_at": "2022-12-07T06:30:31.490942Z",
+                    "updated_at": "2022-12-07T07:18:23.549839Z"
+                }
+            ],
+            "users":
+            [
+                {
+                    "id": 2065106,
+                    "name": "Jo Smith",
+                    "email": "jsmith@gmail.com",
+                    "time_zone": "America/New_York",
+                    "status": "active",
+                    "created_at": "2022-12-06T14:32:27.215116Z",
+                    "updated_at": "2022-12-06T14:32:27.798887Z"
+                },
+                {
+                    "id": 2065107,
+                    "name": "Kate Crole",
+                    "email": "kc@gmail.com",
+                    "time_zone": "America/New_York",
+                    "status": "active",
+                    "created_at": "2022-12-06T14:32:27.215116Z",
+                    "updated_at": "2022-12-06T14:32:27.798887Z"
+                }
+            ]
+        }],
+        "2279041": [{
+        	"daily_activities": [],
+        	"users": []
+        }],
+        "2279042": [{
+        	"daily_activities": [{
+                    "id": 7164215308,
+                    "date": "2022-12-07",
+                    "user_id": 2065189,
+                    "project_id": 2279042,
+                    "task_id": 114500575,
+                    "keyboard": 1070,
+                    "mouse": 1949,
+                    "overall": 2611,
+                    "tracked": 89898,
+                    "input_tracked": 3463,
+                    "manual": 0,
+                    "idle": 0,
+                    "resumed": 0,
+                    "billable": 3463,
+                    "created_at": "2022-12-07T06:30:31.490942Z",
+                    "updated_at": "2022-12-07T07:18:23.549839Z"
+                }],
+        	"users": [
+        		{
+                    "id": 2065189,
+                    "name": "Sam Bloose",
+                    "email": "sbloose@gmail.com",
+                    "time_zone": "America/New_York",
+                    "status": "active",
+                    "created_at": "2022-12-06T14:32:27.215116Z",
+                    "updated_at": "2022-12-06T14:32:27.798887Z"
+                }
+            ]
+        }]
+    }
+}

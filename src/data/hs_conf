@@ -1,0 +1,7 @@
+[DEFAULT]
+email: EMAIL
+password: PASSWORD
+app_token: TOKEN
+base_url: BASE_URL
+api_version: VERSION
+org_name: ORG_NAME
