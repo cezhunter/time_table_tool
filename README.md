@@ -8,7 +8,7 @@ update config file `src/data/hs_conf` with your info
 
 should be useful for a cron job :)
 
-####Commands
+#### Commands
 
 `hs_util table --help`
 
@@ -16,7 +16,7 @@ should be useful for a cron job :)
 
 `hs_util table -date 23-10-2022`
 
-#####todo
+##### todo
 
 * write unit tests
 * add comprehensive documentation
